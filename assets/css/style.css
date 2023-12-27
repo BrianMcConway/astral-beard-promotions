@@ -1,0 +1,120 @@
+body {
+    background-color: #2c2a2a;
+    max-width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 15%;
+}
+
+.page-header {
+    text-align: center;
+    color: grey;
+    /*font-family: Verdana, Geneva, Tahoma, sans-serif;*/
+    /*font-weight: bold;*/
+    font-size: 2.7vw;
+}
+
+.title {
+    text-align: center;
+    color: white;
+    /*font-family: Verdana, Geneva, Tahoma, sans-serif;*/
+    /*font-weight: bold;*/
+    font-size: 50px;
+}
+
+.title2 {
+    text-align: center;
+    color: #c5bebe;
+    /*font-family: Verdana, Geneva, Tahoma, sans-serif;*/
+    /*font-weight: bold;*/
+    font-size: 35px;
+}
+
+nav {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+
+nav a {
+    color: #e8e3e3;
+}
+
+nav>a:hover {
+    color: #a5a4a8
+}
+
+.spread-words {
+    word-spacing: 50px;
+}
+
+.intro {
+    text-align: center;
+    color: white;
+}
+
+.intro-text {
+    color: white;
+    text-align: center;
+}
+
+img {
+    width: 80%;
+    height: 80%;
+    margin: 10%;
+    border: 10px solid white;
+    border-radius: 1%;
+}
+
+
+
+footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    padding-top: 1.5%;
+    padding-bottom: 0%;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #1d1b1b;
+}
+
+footer>a {
+    color: white;
+    font-size: 90%;
+}
+
+footer>p {
+    color: grey;
+    font-size: 60%;
+}
+
+footer>a:hover {
+    color: #a5a4a8
+}
+
+span {
+    color: #e8e3e3;
+    font-size: 90%;
+}
+
+p {
+    color: #bab5b5;
+}
+
+/*Credit to Hasan Armstrong for the css animation*/
+.wrapper {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+
+.wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    Height: 100%;
+}
