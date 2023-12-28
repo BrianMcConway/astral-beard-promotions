@@ -9,24 +9,24 @@ body {
 .page-header {
     text-align: center;
     color: grey;
-    /*font-family: Verdana, Geneva, Tahoma, sans-serif;*/
-    /*font-weight: bold;*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
     font-size: 2.7vw;
 }
 
 .title {
     text-align: center;
     color: white;
-    /*font-family: Verdana, Geneva, Tahoma, sans-serif;*/
-    /*font-weight: bold;*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
     font-size: 50px;
 }
 
 .title2 {
     text-align: center;
     color: #c5bebe;
-    /*font-family: Verdana, Geneva, Tahoma, sans-serif;*/
-    /*font-weight: bold;*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
     font-size: 35px;
 }
 
