@@ -88,21 +88,25 @@ p {
 .mma-block {
     display: flex;
     justify-content: space-between;
+    gap: 10%;
 }
 
 .fishing-block {
         display: flex;
         justify-content: space-between;
+        gap: 10%;
     }
 
 .wta-block {
         display: flex;
         justify-content: space-between;
+        gap: 10%;
     }
 
 .soundcloud-block {
         display: flex;
         justify-content: space-between;
+        gap: 10%;
     }
 
 footer {
