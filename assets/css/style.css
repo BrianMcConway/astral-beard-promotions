@@ -82,6 +82,7 @@ img {
 p {
     font-size: 20px;
     line-height: 1.5;
+    color: #bab5b5;
 }
 
 .mma-block {
@@ -140,10 +141,6 @@ footer>p {
 span {
     color: #e8e3e3;
     font-size: 90%;
-}
-
-p {
-    color: #bab5b5;
 }
 
 /*Credit to Hasan Armstrong for the css animation*/
