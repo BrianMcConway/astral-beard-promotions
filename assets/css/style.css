@@ -84,6 +84,25 @@ p {
     line-height: 1.5;
 }
 
+.mma-block {
+    display: flex;
+    justify-content: space-between;
+}
+
+.fishing-block {
+        display: flex;
+        justify-content: space-between;
+    }
+
+.wta-block {
+        display: flex;
+        justify-content: space-between;
+    }
+
+.soundcloud-block {
+        display: flex;
+        justify-content: space-between;
+    }
 
 footer {
     font-family: Kanit, sans-serif;
@@ -128,6 +147,7 @@ p {
 }
 
 /*Credit to Hasan Armstrong for the css animation*/
+/*
 .wrapper {
     position: relative;
     overflow: hidden;
@@ -141,3 +161,4 @@ p {
     width: 100%;
     Height: 100%;
 }
+*/
